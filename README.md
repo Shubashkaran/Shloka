@@ -1,5 +1,5 @@
 # Shloka
-Face Detection and Social Distancing Detection using Python and OpenCV.
+Face Mask Detection and Social Distancing Detection using Python and OpenCV.
 
 Dependencies:
 1. face-detection
